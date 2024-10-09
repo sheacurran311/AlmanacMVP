@@ -2,7 +2,7 @@
 
 # Almanac MVP
 
-Almanac MVP is a multi-tenant loyalty and rewards platform designed for enterprise businesses, sports teams, leagues, events, and musicians. It integrates traditional loyalty mechanisms with blockchain technology, leveraging Supabase for backend services.
+Almanac MVP is a multi-tenant loyalty and rewards platform designed for enterprise businesses, sports teams, leagues, events, and musicians. It integrates traditional loyalty mechanisms with blockchain technology, leveraging AWS, Google AR, Google Geofencing, Solana, Dyanamic.xyz, Heliuis, and Metaplex for NFT/cNFT minting and distributions.
 
 ## Table of Contents
 
