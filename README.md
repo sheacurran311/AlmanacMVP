@@ -24,7 +24,7 @@ Solana Wallet
 
 Installation:
 
-Clone the Repository: git clone https://github.com/your-username/ALMANAC-LABS.git cd ALMANAC-LABS
+Clone the Repository: git clone https://github.com/sheacurran311/ALMANACMVP.git cd ALMANACMVP
 
 Install Dependencies: npm install
 
